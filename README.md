@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I'm Megumi, a student learning Frontend Development at Noroff.
+I'm Megumi, a student in Frontend Development 2nd year at Noroff - School of technology and digital media.
 
+## Tech skills
+HTML | CSS | JS | Python | WP
 
+## Bio
+Born and grown up in Japan, studied and worked in Belgium/India/Japan/Norway, I am a muticultural and multi dicipliary person with zen in mind. 
+Besides programming, I play saxophon :saxophone: in orchestra and train capoeira (martical art) :woman_cartwheeling:.
 
 <!--
 **MegumiKim/MegumiKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
