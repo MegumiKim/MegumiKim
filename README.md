@@ -10,8 +10,10 @@ Born and grown up in Japan, studied and worked in Belgium/India/Japan/Norway, I 
 Besides programming, I play saxophon :saxophone: and train capoeira (martical art) :woman_cartwheeling: in my free time.
 
 ## Contact
-[LinkedIN](https://www.linkedin.com/in/kimuramegumi/)
-kimuramegumi@gmail.com
+[LinkedIN](https://www.linkedin.com/in/kimuramegumi/) 
+
+kimuramegumi@gmil.com
+
 <!--
 **MegumiKim/MegumiKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
