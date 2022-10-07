@@ -7,7 +7,7 @@ HTML | CSS | JS | Python | WP
 
 ## About
 Born and grown up in Japan, studied and worked in Belgium/India/Japan/Norway, I am a multicultural and multidisciplinary person with zen in mind. 
-Besides programming, I play saxophon :saxophone: in orchestra and train capoeira (martical art) :woman_cartwheeling:.
+Besides programming, I play saxophon :saxophone: and train capoeira (martical art) :woman_cartwheeling: in my free time.
 
 ## Contact
 [LinkedIN](https://www.linkedin.com/in/kimuramegumi/)
