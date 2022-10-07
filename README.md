@@ -11,7 +11,7 @@ Besides programming, I play saxophon :saxophone: and train capoeira (martical ar
 
 ## Contact
 [LinkedIN](https://www.linkedin.com/in/kimuramegumi/)
-
+kimuramegumi@gmail.com
 <!--
 **MegumiKim/MegumiKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
