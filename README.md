@@ -3,14 +3,14 @@
 I'm Megumi, a student in Frontend Development 2nd year at Noroff - School of technology and digital media.
 
 ## Tech skills
-HTML | CSS | JS | Python | WP
+HTML | CSS | JS | WP | Bootstrap | REST APIs 
 
 ## About
 Born and grown up in Japan, studied and worked in Belgium/India/Japan/Norway, I am a multicultural and multidisciplinary person with zen in mind. 
 Besides programming, I play saxophon :saxophone: and train capoeira (martical art) :woman_cartwheeling: in my free time.
 
 ## Contact
-[LinkedIN](https://www.linkedin.com/in/kimuramegumi/) 
+[LinkednIn](https://www.linkedin.com/in/kimuramegumi/) 
 
 kimuramegumi@gmil.com
 
