@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Megumi, a student in Frontend Development 2nd year at Noroff - School of technology and digital media.
+Aspiring frontend developer with strong passion in Javascript and UX design. Currently finishing the 2nd year in Frontend development at Noroff and seeking an opportunity to expand a horizon.
 
 ## Tech skills
 HTML | CSS | JS | WP | Bootstrap | REST APIs 
