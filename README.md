@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Aspiring frontend developer with strong passion in Javascript and UX design. Currently finishing the 2nd year in Frontend development at Noroff and seeking an opportunity to expand a horizon.
+Aspiring frontend developer with passion in coding and UX. Currently pursuing a dream to be a web developer and finishing the 2nd year in Frontend development at Noroff.
 
 ## Tech skills
-HTML | CSS | JS | WP | Bootstrap | REST APIs 
+HTML | CSS | JS | React | Bootstrap | REST APIs | WP 
 
 ## About
-Born and grown up in Japan, studied and worked in Belgium/India/Japan/Norway, I am a multicultural and multidisciplinary person with zen in mind. 
-Besides programming, I play saxophon :saxophone: and train capoeira (martical art) :woman_cartwheeling: in my free time.
+Born and grown up in Japan, studied and worked in Belgium/India/Japan/Norway, I am a multicultural and multidisciplinary person with zen in mind. Besides programming, I play saxophon :saxophone: and train capoeira (martical art) :woman_cartwheeling: in my free time.
 
 ## Contact
 [LinkednIn](https://www.linkedin.com/in/kimuramegumi/) 
