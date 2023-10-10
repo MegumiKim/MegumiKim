@@ -18,7 +18,9 @@ Born and raised in Japan, studied and worked in Belgium/India/Japan/Norway, I am
 
 ## Contact
 [LinkednIn](https://www.linkedin.com/in/kimuramegumi/) 
+
 [Portfolio](https://portfolio.megumi.no)
+
 kimuramegumi@gmil.com
 
 
