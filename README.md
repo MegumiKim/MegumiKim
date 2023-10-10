@@ -1,8 +1,8 @@
-### Hello World! 👋
+# Hello World! 👋
 
 I'm Megumi, a recent graduate in web development and a frontend enthusiast. I'm on the lookout for my next coding adventure, driven by my passion for crafting user friendly interfaces. Let's make the web a better place, one line of code at a time.
 
-# Tech skills
+## Tech skills
 
 ### Programming Languages
 HTML | CSS | JS | TS | Python | SQL
