@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Megumi, a recent graduate in web development and a frontend enthusiast. I'm on the lookout for my next coding adventure, driven by my passion for crafting user friendly interfaces. Let's make the web a better place, one line of code at a time.
+Software Developer Intern at Schibsted. Born and raised in Japan, studied and worked in Belgium/India/Japan/Norway, I am a multicultural and multidisciplinary person with zen in mind. I am known to be social, curious, and committed to learning something new every day.
 
 ## Tech skills
 
@@ -8,18 +8,16 @@ I'm Megumi, a recent graduate in web development and a frontend enthusiast. I'm 
 HTML | CSS | JS | TS | Python | SQL
 
 ### Frontend Frameworks
-Svelte | React | Bootstrap | Tailwind CSS
+Svelte | React | Tailwind CSS
 
 ### Other tools
-REST APIs | WP | Postman | GitHub | CLI | figma | Trello | Azure
+REST APIs | Postman | GitHub | CLI | Sanity | Postgres
 
-## About
-Born and raised in Japan, studied and worked in Belgium/India/Japan/Norway, I am a multicultural and multidisciplinary person with zen in mind. Besides programming, I play saxophone :saxophone: and train capoeira (martial art) :woman_cartwheeling: in my free time.
 
 ## Contact
 [LinkednIn](https://www.linkedin.com/in/kimuramegumi/) 
 
-[Portfolio](https://portfolio.megumi.no)
+[Portfolio](https://home.megumi.no)
 
 kimuramegumi@gmil.com
 
