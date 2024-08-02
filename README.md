@@ -10,7 +10,7 @@ HTML | CSS | JS | TS | Python | SQL | Svelte | React | REST APIs | Sanity | Post
 ## Contact
 [LinkednIn](https://www.linkedin.com/in/kimuramegumi/) 
 
-[Portfolio]([https://home.megumi.no](https://megumi-portfolio.vercel.app/))
+[Portfolio](https://megumi-portfolio.vercel.app/)
 
 kimuramegumi@gmil.com
 
