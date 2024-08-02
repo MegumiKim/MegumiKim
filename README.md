@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-Software Developer Intern at Schibsted. Born and raised in Japan, studied and worked in Belgium/India/Japan/Norway, I am a multicultural and multidisciplinary person with zen in mind. I am known to be social, curious, and committed to learning something new every day.
+Frontend Developer at Schibsted. 
 
 ## Tech skills
 
@@ -8,16 +8,16 @@ Software Developer Intern at Schibsted. Born and raised in Japan, studied and wo
 HTML | CSS | JS | TS | Python | SQL
 
 ### Frontend Frameworks
-Svelte | React | Tailwind CSS
+Svelte | React 
 
 ### Other tools
-REST APIs | Postman | GitHub | CLI | Sanity | Postgres
+REST APIs | Sanity | Postgres
 
 
 ## Contact
 [LinkednIn](https://www.linkedin.com/in/kimuramegumi/) 
 
-[Portfolio](https://home.megumi.no)
+[Portfolio]([https://home.megumi.no](https://megumi-portfolio.vercel.app/))
 
 kimuramegumi@gmil.com
 
