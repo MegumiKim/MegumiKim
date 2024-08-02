@@ -2,15 +2,10 @@
 
 Frontend Developer at Schibsted. 
 
-## Tech skills
+## Tech stack
 
-### Programming Languages
 HTML | CSS | JS | TS | Python | SQL
-
-### Frontend Frameworks
 Svelte | React 
-
-### Other tools
 REST APIs | Sanity | Postgres
 
 
