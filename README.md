@@ -4,9 +4,7 @@ Frontend Developer at Schibsted.
 
 ## Tech stack
 
-HTML | CSS | JS | TS | Python | SQL
-Svelte | React 
-REST APIs | Sanity | Postgres
+HTML | CSS | JS | TS | Python | SQL | Svelte | React | REST APIs | Sanity | Postgres
 
 
 ## Contact
